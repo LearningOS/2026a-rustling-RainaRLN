@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2084,
   "repository": "LearningOS/2026a-rustling-RainaRLN",
-  "commit": "9523b5d39c6f5b011baa7a08bdeb124cab0613e3",
-  "score": 47,
+  "commit": "469876a4a5acfbeab6c5a52f8096644d4f217b82",
+  "score": 50,
   "totalScore": 110,
   "exercises": [
     {
@@ -338,23 +338,23 @@
     {
       "name": "options1",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "options2",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "options3",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "errors1",
@@ -778,9 +778,9 @@
     }
   ],
   "student": "RainaRLN",
-  "runId": "37172434899",
+  "runId": "37194986969",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
